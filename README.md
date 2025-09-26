@@ -46,14 +46,14 @@ I am dedicated chemistry student with a strong passion for research and innovati
 
 
 
-- 🌟 **Notable Achievements** (Key stats & recognitions across platforms)  
+- 🌟 ##**Notable Achievements** (Key stats & recognitions across platforms)  
   
-  - 🔗 <!--, I have expanded my scientific experience through participation in a research project with the Vita Noa International Alliance for Sciences (VNIAS). I work in this project focused on the synthesis and characterization of nanoparticles, exploring their unique properties and potential applications. I contributed to experimental design, preparation of nanoparticle samples, and analysis using advanced techniques to evaluate their structure, stability, and functionality.
--🥇 This experience not only strengthened my technical laboratory skills but also deepened my understanding of nanotechnology’s role in addressing modern challenges in medicine, energy, and materials science. Collaborating with an international team at VNIAS enhanced my ability to work across disciplines and cultures, fostering both scientific and professional growth.  
+ ## - 🔗 <!--, I have expanded my scientific experience through participation in a research project with the Vita Noa International Alliance for Sciences (VNIAS). I work in this project focused on the synthesis and characterization of nanoparticles, exploring their unique properties and potential applications. I contributed to experimental design, preparation of nanoparticle samples, and analysis using advanced techniques to evaluate their structure, stability, and functionality.
+##-🥇 This experience not only strengthened my technical laboratory skills but also deepened my understanding of nanotechnology’s role in addressing modern challenges in medicine, energy, and materials science. Collaborating with an international team at VNIAS enhanced my ability to work across disciplines and cultures, fostering both scientific and professional growth.  
 
 
 
-- 📢 *Student at @ iCodeGuru** (Python, DSA, Git & GitHub , AI)
+##- 📢 *Student at @ iCodeGuru** (Python, DSA, Git & GitHub , AI)
   - 🐍 Attending Python sessions.
   - 🛠 Attending sessions of Git, GitHub fundamentals, Fundamentals of Machine Learning, and mastering hackathons. 
 
