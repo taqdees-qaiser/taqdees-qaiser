@@ -25,7 +25,7 @@ I am dedicated chemistry student with a strong passion for research and innovati
 > Tools, languages, and other things I am working with.
 <a href="https://github.com/taqdees-qaiser/">
 <p align="left">
-  <imgi=googlecolaboratory,github,slack,discord,chatgpt" />
+  <img src="https://googlecolaboratory,github,slack,discord,chatgpt" />
 </p>
 </a>
 
@@ -34,7 +34,7 @@ I am dedicated chemistry student with a strong passion for research and innovati
     
 
   
- ## Connect with me🤝:
+  ## Connect with me🤝:
 <div align="center">
     <a href="https://muhammad-arham.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-muhammad--arham.netlify.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/Taqdees Qaiser/" target="_blank"><img
@@ -48,12 +48,12 @@ I am dedicated chemistry student with a strong passion for research and innovati
 
 - 🌟 ##**Notable Achievements** (Key stats & recognitions across platforms)  
   
- ## - 🔗 <!--, I have expanded my scientific experience through participation in a research project with the Vita Noa International Alliance for Sciences (VNIAS). I work in this project focused on the synthesis and characterization of nanoparticles, exploring their unique properties and potential applications. I contributed to experimental design, preparation of nanoparticle samples, and analysis using advanced techniques to evaluate their structure, stability, and functionality.
-##-🥇 This experience not only strengthened my technical laboratory skills but also deepened my understanding of nanotechnology’s role in addressing modern challenges in medicine, energy, and materials science. Collaborating with an international team at VNIAS enhanced my ability to work across disciplines and cultures, fostering both scientific and professional growth.  
+ ## - 🔗 Experience: 
+- I have expanded my scientific experience through participation in a research project with the Vita Noa International Alliance for Sciences (VNIAS). I work in this project focused on the synthesis and characterization of nanoparticles, exploring their unique properties and potential applications. I contributed to experimental design, preparation of nanoparticle samples, and analysis using advanced techniques to evaluate their structure, stability, and functionality.
+-🥇 This experience not only strengthened my technical laboratory skills but also deepened my understanding of nanotechnology’s role in addressing modern challenges in medicine, energy, and materials science. Collaborating with an international team at VNIAS enhanced my ability to work across disciplines and cultures, fostering both scientific and professional growth.  
 
 
-
-##- 📢 *Student at @ iCodeGuru** (Python, DSA, Git & GitHub , AI)
+- 📢 **Student at @ iCodeGuru** (Python, DSA, Git & GitHub , AI)
   - 🐍 Attending Python sessions.
   - 🛠 Attending sessions of Git, GitHub fundamentals, Fundamentals of Machine Learning, and mastering hackathons. 
 
