@@ -56,7 +56,5 @@ I am dedicated chemistry student with a strong passion for research and innovati
   - 🐍 Attending Python sessions.
   - 🛠 Attending sessions of Git, GitHub fundamentals, Fundamentals of Machine Learning, and mastering hackathons. 
 
- 
-
 
  <p align="center">
