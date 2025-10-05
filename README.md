@@ -10,8 +10,6 @@
     <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=taqdees-qaiser&data=followers,repositories,stars,commits&theme=rgb">
 </a>
 
-
-
 ---
 
 
