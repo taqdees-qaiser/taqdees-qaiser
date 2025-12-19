@@ -19,7 +19,7 @@ I am dedicated chemistry student with a strong passion for research and innovati
 
 
 
-
+## My Skill Set 🛠️:
 > Tools, languages, and other things I am working with.
 <a href="https://github.com/taqdees-qaiser/">
 <p align="left">
@@ -29,8 +29,8 @@ I am dedicated chemistry student with a strong passion for research and innovati
 
 
 <!-- <table><tr><td valign="top" width="25%">
-## My Skill Set 🛠️:
-## Connect with me🤝:
+
+## 🔗 Connect with me:
 <div align="center">
     <a href="https://muhammad-arham.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-muhammad--arham.netlify.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/Taqdees Qaiser/" target="_blank"><img
